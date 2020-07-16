@@ -1,0 +1,6 @@
+name: Rubocop Linter
+author: LogicBox, LLC
+description: Lint your Ruby and Ruby on Rails code with rubocop
+runs:
+  using: docker
+  image: Dockerfile
