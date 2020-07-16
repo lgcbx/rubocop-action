@@ -19,11 +19,11 @@ None
 ## Example usage
 
 ```
-uses: docker://lgcbx/rubocop-action:v1.0
+uses: docker://lgcbx/rubocop-action:v1.0.0
 ```
 
 OR
 
 ```
-uses: lgcbx/rubocop-action@v1.0
+uses: lgcbx/rubocop-action@v1.0.0
 ```

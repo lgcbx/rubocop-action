@@ -1,5 +1,5 @@
 image := lgcbx/rubocop-action
-version := 1.0
+version := 1.0.0
 tagged_image := ${image}:v${version}
 progress := auto
 
