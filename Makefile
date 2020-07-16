@@ -1,4 +1,4 @@
-image := lgcbx/rubocop-rails-action
+image := lgcbx/rubocop-action
 version := 1.0
 tagged_image := ${image}:v${version}
 progress := auto
